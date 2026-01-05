@@ -1,8 +1,0 @@
-C:\VisuaStudio\5. 형식이 같은 변수 여러 개\5. 형식이 같은 변수 여러 개\bin\Debug\_5.형식이_같은_변수_여러_개.exe.config
-C:\VisuaStudio\5. 형식이 같은 변수 여러 개\5. 형식이 같은 변수 여러 개\bin\Debug\_5.형식이_같은_변수_여러_개.exe
-C:\VisuaStudio\5. 형식이 같은 변수 여러 개\5. 형식이 같은 변수 여러 개\bin\Debug\_5.형식이_같은_변수_여러_개.pdb
-C:\VisuaStudio\5. 형식이 같은 변수 여러 개\5. 형식이 같은 변수 여러 개\obj\Debug\5. 형식이 같은 변수 여러 개.csproj.AssemblyReference.cache
-C:\VisuaStudio\5. 형식이 같은 변수 여러 개\5. 형식이 같은 변수 여러 개\obj\Debug\5. 형식이 같은 변수 여러 개.csproj.CoreCompileInputs.cache
-C:\VisuaStudio\5. 형식이 같은 변수 여러 개\5. 형식이 같은 변수 여러 개\obj\Debug\_5.형식이_같은_변수_여러_개.exe
-C:\VisuaStudio\5. 형식이 같은 변수 여러 개\5. 형식이 같은 변수 여러 개\obj\Debug\_5.형식이_같은_변수_여러_개.pdb
-C:\VisuaStudio\5. 형식이 같은 변수 여러 개\5. 형식이 같은 변수 여러 개\obj\Debug\_5.형식이_같은_변수_여러_개.exe.config

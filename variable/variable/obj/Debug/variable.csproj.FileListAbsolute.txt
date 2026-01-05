@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\variable\variable\bin\Debug\variable.exe.config
+C:\GitHub\Lion7\variable\variable\bin\Debug\variable.exe
+C:\GitHub\Lion7\variable\variable\bin\Debug\variable.pdb
+C:\GitHub\Lion7\variable\variable\obj\Debug\variable.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\variable\variable\obj\Debug\variable.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\variable\variable\obj\Debug\variable.exe
+C:\GitHub\Lion7\variable\variable\obj\Debug\variable.pdb
+C:\GitHub\Lion7\variable\variable\obj\Debug\variable.exe.config

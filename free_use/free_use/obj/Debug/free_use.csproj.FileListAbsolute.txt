@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\free_use\free_use\bin\Debug\free_use.exe.config
+C:\GitHub\Lion7\free_use\free_use\bin\Debug\free_use.exe
+C:\GitHub\Lion7\free_use\free_use\bin\Debug\free_use.pdb
+C:\GitHub\Lion7\free_use\free_use\obj\Debug\free_use.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\free_use\free_use\obj\Debug\free_use.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\free_use\free_use\obj\Debug\free_use.exe
+C:\GitHub\Lion7\free_use\free_use\obj\Debug\free_use.pdb
+C:\GitHub\Lion7\free_use\free_use\obj\Debug\free_use.exe.config

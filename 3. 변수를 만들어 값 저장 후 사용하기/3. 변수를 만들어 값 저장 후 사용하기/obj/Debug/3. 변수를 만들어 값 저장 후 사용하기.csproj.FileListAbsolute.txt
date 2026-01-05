@@ -1,7 +1,0 @@
-C:\VisuaStudio\3. 변수를 만들어 값 저장 후 사용하기\3. 변수를 만들어 값 저장 후 사용하기\bin\Debug\_3.변수를_만들어_값_저장_후_사용하기.exe.config
-C:\VisuaStudio\3. 변수를 만들어 값 저장 후 사용하기\3. 변수를 만들어 값 저장 후 사용하기\bin\Debug\_3.변수를_만들어_값_저장_후_사용하기.exe
-C:\VisuaStudio\3. 변수를 만들어 값 저장 후 사용하기\3. 변수를 만들어 값 저장 후 사용하기\bin\Debug\_3.변수를_만들어_값_저장_후_사용하기.pdb
-C:\VisuaStudio\3. 변수를 만들어 값 저장 후 사용하기\3. 변수를 만들어 값 저장 후 사용하기\obj\Debug\3. 변수를 만들어 값 저장 후 사용하기.csproj.AssemblyReference.cache
-C:\VisuaStudio\3. 변수를 만들어 값 저장 후 사용하기\3. 변수를 만들어 값 저장 후 사용하기\obj\Debug\3. 변수를 만들어 값 저장 후 사용하기.csproj.CoreCompileInputs.cache
-C:\VisuaStudio\3. 변수를 만들어 값 저장 후 사용하기\3. 변수를 만들어 값 저장 후 사용하기\obj\Debug\_3.변수를_만들어_값_저장_후_사용하기.exe
-C:\VisuaStudio\3. 변수를 만들어 값 저장 후 사용하기\3. 변수를 만들어 값 저장 후 사용하기\obj\Debug\_3.변수를_만들어_값_저장_후_사용하기.pdb

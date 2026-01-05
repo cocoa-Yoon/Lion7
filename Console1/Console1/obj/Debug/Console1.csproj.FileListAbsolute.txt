@@ -1,8 +1,0 @@
-C:\VisuaStudio\Console1\Console1\obj\Debug\Console1.csproj.AssemblyReference.cache
-C:\VisuaStudio\Console1\Console1\obj\Debug\Console1.csproj.CoreCompileInputs.cache
-C:\VisuaStudio\Console1\Console1\bin\Debug\Console1.exe.config
-C:\VisuaStudio\Console1\Console1\bin\Debug\Console1.exe
-C:\VisuaStudio\Console1\Console1\bin\Debug\Console1.pdb
-C:\VisuaStudio\Console1\Console1\obj\Debug\Console1.exe
-C:\VisuaStudio\Console1\Console1\obj\Debug\Console1.pdb
-C:\VisuaStudio\Console1\Console1\obj\Debug\Console1.exe.config

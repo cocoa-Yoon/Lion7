@@ -1,8 +1,0 @@
-C:\VisuaStudio\1.변수\1.변수\bin\Debug\1.변수.exe.config
-C:\VisuaStudio\1.변수\1.변수\bin\Debug\1.변수.exe
-C:\VisuaStudio\1.변수\1.변수\bin\Debug\1.변수.pdb
-C:\VisuaStudio\1.변수\1.변수\obj\Debug\1.변수.csproj.AssemblyReference.cache
-C:\VisuaStudio\1.변수\1.변수\obj\Debug\1.변수.csproj.CoreCompileInputs.cache
-C:\VisuaStudio\1.변수\1.변수\obj\Debug\1.변수.exe
-C:\VisuaStudio\1.변수\1.변수\obj\Debug\1.변수.pdb
-C:\VisuaStudio\1.변수\1.변수\obj\Debug\1.변수.exe.config

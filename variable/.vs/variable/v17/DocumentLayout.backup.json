@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Lion7\\variable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1389E430-4C05-47F8-9234-0D764DEFF5DB}|variable\\variable.csproj|c:\\github\\lion7\\variable\\variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1389E430-4C05-47F8-9234-0D764DEFF5DB}|variable\\variable.csproj|solutionrelative:variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lion7\\variable\\variable\\Program.cs",
+              "RelativeDocumentMoniker": "variable\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Lion7\\variable\\variable\\Program.cs",
+              "RelativeToolTip": "variable\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T06:57:18.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
