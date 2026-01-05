@@ -1,0 +1,8 @@
+C:\VisuaStudio\2. 리터럴 사용하기\2. 리터럴 사용하기\obj\Debug\2. 리터럴 사용하기.csproj.AssemblyReference.cache
+C:\VisuaStudio\2. 리터럴 사용하기\2. 리터럴 사용하기\obj\Debug\2. 리터럴 사용하기.csproj.CoreCompileInputs.cache
+C:\VisuaStudio\2. 리터럴 사용하기\2. 리터럴 사용하기\bin\Debug\_2.리터럴_사용하기.exe.config
+C:\VisuaStudio\2. 리터럴 사용하기\2. 리터럴 사용하기\bin\Debug\_2.리터럴_사용하기.exe
+C:\VisuaStudio\2. 리터럴 사용하기\2. 리터럴 사용하기\bin\Debug\_2.리터럴_사용하기.pdb
+C:\VisuaStudio\2. 리터럴 사용하기\2. 리터럴 사용하기\obj\Debug\_2.리터럴_사용하기.exe
+C:\VisuaStudio\2. 리터럴 사용하기\2. 리터럴 사용하기\obj\Debug\_2.리터럴_사용하기.pdb
+C:\VisuaStudio\2. 리터럴 사용하기\2. 리터럴 사용하기\obj\Debug\_2.리터럴_사용하기.exe.config
