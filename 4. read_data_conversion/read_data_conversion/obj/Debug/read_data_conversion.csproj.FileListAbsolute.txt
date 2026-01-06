@@ -1,0 +1,16 @@
+C:\GitHub\Lion7\read_data_conversion\read_data_conversion\bin\Debug\read_data_conversion.exe.config
+C:\GitHub\Lion7\read_data_conversion\read_data_conversion\bin\Debug\read_data_conversion.exe
+C:\GitHub\Lion7\read_data_conversion\read_data_conversion\bin\Debug\read_data_conversion.pdb
+C:\GitHub\Lion7\read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.exe
+C:\GitHub\Lion7\read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.pdb
+C:\GitHub\Lion7\read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.exe.config
+C:\GitHub\Lion7\4. read_data_conversion\read_data_conversion\bin\Debug\read_data_conversion.exe.config
+C:\GitHub\Lion7\4. read_data_conversion\read_data_conversion\bin\Debug\read_data_conversion.exe
+C:\GitHub\Lion7\4. read_data_conversion\read_data_conversion\bin\Debug\read_data_conversion.pdb
+C:\GitHub\Lion7\4. read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\4. read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.exe.config
+C:\GitHub\Lion7\4. read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\4. read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.exe
+C:\GitHub\Lion7\4. read_data_conversion\read_data_conversion\obj\Debug\read_data_conversion.pdb

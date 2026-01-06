@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\assignment\assignment\bin\Debug\assignment.exe.config
+C:\GitHub\Lion7\assignment\assignment\bin\Debug\assignment.exe
+C:\GitHub\Lion7\assignment\assignment\bin\Debug\assignment.pdb
+C:\GitHub\Lion7\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\assignment\assignment\obj\Debug\assignment.exe
+C:\GitHub\Lion7\assignment\assignment\obj\Debug\assignment.pdb
+C:\GitHub\Lion7\assignment\assignment\obj\Debug\assignment.exe.config

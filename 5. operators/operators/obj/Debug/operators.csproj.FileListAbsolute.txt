@@ -1,0 +1,16 @@
+C:\GitHub\Lion7\operators\operators\bin\Debug\operators.exe.config
+C:\GitHub\Lion7\operators\operators\bin\Debug\operators.exe
+C:\GitHub\Lion7\operators\operators\bin\Debug\operators.pdb
+C:\GitHub\Lion7\operators\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\operators\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\operators\operators\obj\Debug\operators.exe
+C:\GitHub\Lion7\operators\operators\obj\Debug\operators.pdb
+C:\GitHub\Lion7\operators\operators\obj\Debug\operators.exe.config
+C:\GitHub\Lion7\5. operators\operators\bin\Debug\operators.exe.config
+C:\GitHub\Lion7\5. operators\operators\bin\Debug\operators.exe
+C:\GitHub\Lion7\5. operators\operators\bin\Debug\operators.pdb
+C:\GitHub\Lion7\5. operators\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\5. operators\operators\obj\Debug\operators.exe.config
+C:\GitHub\Lion7\5. operators\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\5. operators\operators\obj\Debug\operators.exe
+C:\GitHub\Lion7\5. operators\operators\obj\Debug\operators.pdb

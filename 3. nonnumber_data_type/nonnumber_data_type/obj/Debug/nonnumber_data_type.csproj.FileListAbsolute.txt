@@ -1,0 +1,16 @@
+C:\GitHub\Lion7\nonnumber_data_type\nonnumber_data_type\bin\Debug\nonnumber_data_type.exe.config
+C:\GitHub\Lion7\nonnumber_data_type\nonnumber_data_type\bin\Debug\nonnumber_data_type.exe
+C:\GitHub\Lion7\nonnumber_data_type\nonnumber_data_type\bin\Debug\nonnumber_data_type.pdb
+C:\GitHub\Lion7\nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.exe
+C:\GitHub\Lion7\nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.pdb
+C:\GitHub\Lion7\nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.exe.config
+C:\GitHub\Lion7\3. nonnumber_data_type\nonnumber_data_type\bin\Debug\nonnumber_data_type.exe.config
+C:\GitHub\Lion7\3. nonnumber_data_type\nonnumber_data_type\bin\Debug\nonnumber_data_type.exe
+C:\GitHub\Lion7\3. nonnumber_data_type\nonnumber_data_type\bin\Debug\nonnumber_data_type.pdb
+C:\GitHub\Lion7\3. nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\3. nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.exe.config
+C:\GitHub\Lion7\3. nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\3. nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.exe
+C:\GitHub\Lion7\3. nonnumber_data_type\nonnumber_data_type\obj\Debug\nonnumber_data_type.pdb

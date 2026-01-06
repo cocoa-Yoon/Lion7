@@ -11,29 +11,23 @@ namespace free_use
     {
         static void Main(string[] args)
         {
-            int playerHealth = 5;
-            int playerStrength = 8;
-            double playerIntelligence = 7.5;
-            decimal playerLuck = 2.4m;
-            const float playerSize = 1.05f;
-
-            Console.WriteLine("┏━━━━━━━━━━━━━━━━  케릭터 정보 ━━━━━━━━━━━━━━━━━┓");
-            Thread.Sleep(1000);
-            Console.WriteLine($"┃          플레이어 체력              {playerHealth}         ┃");
-            Thread.Sleep(1000);
-            Console.WriteLine($"┃          플레이어 힘                {playerStrength}         ┃");
-            Thread.Sleep(1000);
-            Console.WriteLine($"┃          플레이어 지능              {playerIntelligence}       ┃");
-            Thread.Sleep(1000);
-            Console.WriteLine($"┃          플레이어 운                {playerLuck}       ┃");
-            Thread.Sleep(1000);
-            Console.WriteLine($"┃          플레이어 크기              {playerSize}      ┃");
-            Thread.Sleep(1000);
-            Console.WriteLine($"┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛");
-            Thread.Sleep(1000);
+            // 정수를 문자열로, 문자열을 정수로, 2진수를 10진수로, 10진수를 2진수로
 
 
+            int a = 11;
+            string b = a.ToString();
 
+            int c = int.Parse(b);
+            Console.WriteLine(c);
+           
+            string x = Console.ReadLine();
+            int y = Convert.ToInt32(x, 2);
+            Console.WriteLine(y);
+
+            string z = Convert.ToString(y, 2);
+            Console.WriteLine(z);
+
+                   
         }
     }
 }
