@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{06E24EDC-FC2A-4218-AFB3-A2003EDCF6F9}|free_use\\free_use.csproj|c:\\github\\lion7\\free_use\\free_use\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06E24EDC-FC2A-4218-AFB3-A2003EDCF6F9}|free_use\\free_use.csproj|solutionrelative:free_use\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|free_use||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "free_use",
+              "DocumentMoniker": "C:\\GitHub\\Lion7\\free_use\\free_use\\free_use.csproj",
+              "RelativeDocumentMoniker": "free_use\\free_use.csproj",
+              "ToolTip": "C:\\GitHub\\Lion7\\free_use\\free_use\\free_use.csproj",
+              "RelativeToolTip": "free_use\\free_use.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-08T05:42:45.917Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +38,7 @@
               "RelativeDocumentMoniker": "free_use\\Program.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\free_use\\free_use\\Program.cs",
               "RelativeToolTip": "free_use\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwDsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T07:13:23.499Z",
               "EditorCaption": ""

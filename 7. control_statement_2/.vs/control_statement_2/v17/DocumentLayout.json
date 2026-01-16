@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Lion7\\7. control_statement_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{578EE901-6193-4AC7-88AB-8D7D1543F4BD}|control_statement_2\\control_statement_2.csproj|c:\\github\\lion7\\7. control_statement_2\\control_statement_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578EE901-6193-4AC7-88AB-8D7D1543F4BD}|control_statement_2\\control_statement_2.csproj|solutionrelative:control_statement_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lion7\\7. control_statement_2\\control_statement_2\\Program.cs",
+              "RelativeDocumentMoniker": "control_statement_2\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Lion7\\7. control_statement_2\\control_statement_2\\Program.cs",
+              "RelativeToolTip": "control_statement_2\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T00:07:56.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

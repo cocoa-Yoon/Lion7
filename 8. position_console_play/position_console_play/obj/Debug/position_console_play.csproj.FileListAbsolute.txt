@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\8. position_console_play\position_console_play\bin\Debug\position_console_play.exe.config
+C:\GitHub\Lion7\8. position_console_play\position_console_play\bin\Debug\position_console_play.exe
+C:\GitHub\Lion7\8. position_console_play\position_console_play\bin\Debug\position_console_play.pdb
+C:\GitHub\Lion7\8. position_console_play\position_console_play\obj\Debug\position_console_play.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\8. position_console_play\position_console_play\obj\Debug\position_console_play.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\8. position_console_play\position_console_play\obj\Debug\position_console_play.exe
+C:\GitHub\Lion7\8. position_console_play\position_console_play\obj\Debug\position_console_play.pdb
+C:\GitHub\Lion7\8. position_console_play\position_console_play\obj\Debug\position_console_play.exe.config

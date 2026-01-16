@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\various_array\various_array\obj\Debug\various_array.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\various_array\various_array\obj\Debug\various_array.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\various_array\various_array\bin\Debug\various_array.exe.config
+C:\GitHub\Lion7\various_array\various_array\bin\Debug\various_array.exe
+C:\GitHub\Lion7\various_array\various_array\bin\Debug\various_array.pdb
+C:\GitHub\Lion7\various_array\various_array\obj\Debug\various_array.exe
+C:\GitHub\Lion7\various_array\various_array\obj\Debug\various_array.pdb
+C:\GitHub\Lion7\various_array\various_array\obj\Debug\various_array.exe.config

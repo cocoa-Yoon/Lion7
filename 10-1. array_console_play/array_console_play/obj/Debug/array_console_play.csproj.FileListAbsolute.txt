@@ -1,0 +1,16 @@
+C:\GitHub\Lion7\array_console_play\array_console_play\bin\Debug\array_console_play.exe.config
+C:\GitHub\Lion7\array_console_play\array_console_play\bin\Debug\array_console_play.exe
+C:\GitHub\Lion7\array_console_play\array_console_play\bin\Debug\array_console_play.pdb
+C:\GitHub\Lion7\array_console_play\array_console_play\obj\Debug\array_console_play.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\array_console_play\array_console_play\obj\Debug\array_console_play.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\array_console_play\array_console_play\obj\Debug\array_console_play.exe
+C:\GitHub\Lion7\array_console_play\array_console_play\obj\Debug\array_console_play.pdb
+C:\GitHub\Lion7\array_console_play\array_console_play\obj\Debug\array_console_play.exe.config
+C:\GitHub\Lion7\10-1. array_console_play\array_console_play\bin\Debug\array_console_play.exe.config
+C:\GitHub\Lion7\10-1. array_console_play\array_console_play\bin\Debug\array_console_play.exe
+C:\GitHub\Lion7\10-1. array_console_play\array_console_play\bin\Debug\array_console_play.pdb
+C:\GitHub\Lion7\10-1. array_console_play\array_console_play\obj\Debug\array_console_play.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\10-1. array_console_play\array_console_play\obj\Debug\array_console_play.exe.config
+C:\GitHub\Lion7\10-1. array_console_play\array_console_play\obj\Debug\array_console_play.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\10-1. array_console_play\array_console_play\obj\Debug\array_console_play.exe
+C:\GitHub\Lion7\10-1. array_console_play\array_console_play\obj\Debug\array_console_play.pdb

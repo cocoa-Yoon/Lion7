@@ -1,0 +1,16 @@
+C:\GitHub\Lion7\array\array\bin\Debug\array.exe.config
+C:\GitHub\Lion7\array\array\bin\Debug\array.exe
+C:\GitHub\Lion7\array\array\bin\Debug\array.pdb
+C:\GitHub\Lion7\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\array\array\obj\Debug\array.exe
+C:\GitHub\Lion7\array\array\obj\Debug\array.pdb
+C:\GitHub\Lion7\array\array\obj\Debug\array.exe.config
+C:\GitHub\Lion7\9. array\array\bin\Debug\array.exe.config
+C:\GitHub\Lion7\9. array\array\bin\Debug\array.exe
+C:\GitHub\Lion7\9. array\array\bin\Debug\array.pdb
+C:\GitHub\Lion7\9. array\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\9. array\array\obj\Debug\array.exe.config
+C:\GitHub\Lion7\9. array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\9. array\array\obj\Debug\array.exe
+C:\GitHub\Lion7\9. array\array\obj\Debug\array.pdb

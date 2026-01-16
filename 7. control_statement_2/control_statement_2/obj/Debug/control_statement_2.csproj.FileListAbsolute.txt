@@ -1,0 +1,16 @@
+C:\GitHub\Lion7\control_statement_2\control_statement_2\obj\Debug\control_statement_2.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\control_statement_2\control_statement_2\obj\Debug\control_statement_2.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\control_statement_2\control_statement_2\bin\Debug\control_statement_2.exe.config
+C:\GitHub\Lion7\control_statement_2\control_statement_2\bin\Debug\control_statement_2.exe
+C:\GitHub\Lion7\control_statement_2\control_statement_2\bin\Debug\control_statement_2.pdb
+C:\GitHub\Lion7\control_statement_2\control_statement_2\obj\Debug\control_statement_2.exe
+C:\GitHub\Lion7\control_statement_2\control_statement_2\obj\Debug\control_statement_2.pdb
+C:\GitHub\Lion7\control_statement_2\control_statement_2\obj\Debug\control_statement_2.exe.config
+C:\GitHub\Lion7\7. control_statement_2\control_statement_2\obj\Debug\control_statement_2.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\7. control_statement_2\control_statement_2\obj\Debug\control_statement_2.exe.config
+C:\GitHub\Lion7\7. control_statement_2\control_statement_2\obj\Debug\control_statement_2.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\7. control_statement_2\control_statement_2\obj\Debug\control_statement_2.exe
+C:\GitHub\Lion7\7. control_statement_2\control_statement_2\obj\Debug\control_statement_2.pdb
+C:\GitHub\Lion7\7. control_statement_2\control_statement_2\bin\Debug\control_statement_2.exe.config
+C:\GitHub\Lion7\7. control_statement_2\control_statement_2\bin\Debug\control_statement_2.exe
+C:\GitHub\Lion7\7. control_statement_2\control_statement_2\bin\Debug\control_statement_2.pdb

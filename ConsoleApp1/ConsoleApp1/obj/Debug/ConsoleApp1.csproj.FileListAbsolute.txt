@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\GitHub\Lion7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\GitHub\Lion7\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\GitHub\Lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\GitHub\Lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\GitHub\Lion7\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config

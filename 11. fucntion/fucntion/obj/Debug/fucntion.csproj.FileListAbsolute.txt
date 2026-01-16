@@ -1,0 +1,16 @@
+C:\GitHub\Lion7\fucntion\fucntion\bin\Debug\fucntion.exe.config
+C:\GitHub\Lion7\fucntion\fucntion\bin\Debug\fucntion.exe
+C:\GitHub\Lion7\fucntion\fucntion\bin\Debug\fucntion.pdb
+C:\GitHub\Lion7\fucntion\fucntion\obj\Debug\fucntion.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\fucntion\fucntion\obj\Debug\fucntion.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\fucntion\fucntion\obj\Debug\fucntion.exe
+C:\GitHub\Lion7\fucntion\fucntion\obj\Debug\fucntion.pdb
+C:\GitHub\Lion7\fucntion\fucntion\obj\Debug\fucntion.exe.config
+C:\GitHub\Lion7\11. fucntion\fucntion\bin\Debug\fucntion.exe.config
+C:\GitHub\Lion7\11. fucntion\fucntion\bin\Debug\fucntion.exe
+C:\GitHub\Lion7\11. fucntion\fucntion\bin\Debug\fucntion.pdb
+C:\GitHub\Lion7\11. fucntion\fucntion\obj\Debug\fucntion.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\11. fucntion\fucntion\obj\Debug\fucntion.exe.config
+C:\GitHub\Lion7\11. fucntion\fucntion\obj\Debug\fucntion.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\11. fucntion\fucntion\obj\Debug\fucntion.exe
+C:\GitHub\Lion7\11. fucntion\fucntion\obj\Debug\fucntion.pdb

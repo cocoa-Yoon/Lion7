@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\console_shoting_game\console_shoting_game\bin\Debug\console_shoting_game.exe.config
+C:\GitHub\Lion7\console_shoting_game\console_shoting_game\bin\Debug\console_shoting_game.exe
+C:\GitHub\Lion7\console_shoting_game\console_shoting_game\bin\Debug\console_shoting_game.pdb
+C:\GitHub\Lion7\console_shoting_game\console_shoting_game\obj\Debug\console_shoting_game.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\console_shoting_game\console_shoting_game\obj\Debug\console_shoting_game.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\console_shoting_game\console_shoting_game\obj\Debug\console_shoting_game.exe
+C:\GitHub\Lion7\console_shoting_game\console_shoting_game\obj\Debug\console_shoting_game.pdb
+C:\GitHub\Lion7\console_shoting_game\console_shoting_game\obj\Debug\console_shoting_game.exe.config

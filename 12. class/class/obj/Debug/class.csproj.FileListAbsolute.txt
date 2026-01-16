@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\class\class\bin\Debug\@class.exe.config
+C:\GitHub\Lion7\class\class\bin\Debug\@class.exe
+C:\GitHub\Lion7\class\class\bin\Debug\@class.pdb
+C:\GitHub\Lion7\class\class\obj\Debug\class.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\class\class\obj\Debug\class.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\class\class\obj\Debug\@class.exe
+C:\GitHub\Lion7\class\class\obj\Debug\@class.pdb
+C:\GitHub\Lion7\class\class\obj\Debug\@class.exe.config

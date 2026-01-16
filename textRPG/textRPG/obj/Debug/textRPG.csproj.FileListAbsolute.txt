@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\textRPG\textRPG\bin\Debug\textRPG.exe.config
+C:\GitHub\Lion7\textRPG\textRPG\bin\Debug\textRPG.exe
+C:\GitHub\Lion7\textRPG\textRPG\bin\Debug\textRPG.pdb
+C:\GitHub\Lion7\textRPG\textRPG\obj\Debug\textRPG.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\textRPG\textRPG\obj\Debug\textRPG.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\textRPG\textRPG\obj\Debug\textRPG.exe
+C:\GitHub\Lion7\textRPG\textRPG\obj\Debug\textRPG.pdb
+C:\GitHub\Lion7\textRPG\textRPG\obj\Debug\textRPG.exe.config

@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\static_members\static_members\bin\Debug\static_members.exe.config
+C:\GitHub\Lion7\static_members\static_members\bin\Debug\static_members.exe
+C:\GitHub\Lion7\static_members\static_members\bin\Debug\static_members.pdb
+C:\GitHub\Lion7\static_members\static_members\obj\Debug\static_members.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\static_members\static_members\obj\Debug\static_members.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\static_members\static_members\obj\Debug\static_members.exe
+C:\GitHub\Lion7\static_members\static_members\obj\Debug\static_members.pdb
+C:\GitHub\Lion7\static_members\static_members\obj\Debug\static_members.exe.config

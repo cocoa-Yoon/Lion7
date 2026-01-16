@@ -7,108 +7,67 @@ using System.Threading.Tasks;
 
 namespace assignment
 {
+    class Monster
+    {
+        public string name;
+        public int level;
+        public int hp;
+        public int attack;
+        public int defense;
+        public int expReaward;
+
+        public Monster()
+        {
+            name = "슬라임";
+            level = 1;
+            hp = 50;
+            attack = 10;
+            defense = 5;
+            expReaward = 10;
+        }
+
+        public Monster(string monsterName, int monsterLevel)
+        {
+            name = monsterName;
+            level = monsterLevel;
+            hp = 50 * level;
+            attack = 10 * level;
+            defense = 5 * level;
+            expReaward = 10 * level;
+        }
+
+        public void ShowStats()
+        {
+            Console.WriteLine($"{name} (Lv.{level})");
+            Console.WriteLine($"HP : {hp}");
+            Console.WriteLine($"공격력 : {attack}");
+            Console.WriteLine($"방어력 : {defense}");
+            Console.WriteLine($"경험치 : {expReaward}\n");
+        }
+    }
+
+
+
+
     internal class Program
     {
         static void Main(string[] args)
         {
-            int currentHP = 80;
-            int maxHP = 100;
-            int monsterDamage = 25;
-            int healHP = 30;
-            int poisionDamage = 5;
+            Monster slime = new Monster();
+            slime.ShowStats();
 
-            Console.WriteLine($"초기 체력: {currentHP}/{maxHP}");
-            Console.WriteLine($"데미지 -{monsterDamage}: {currentHP -= monsterDamage}/{maxHP}");
-            Console.WriteLine($"회복 +{healHP}: {currentHP += healHP}/{maxHP}");
-            Console.WriteLine($"독 데미지 -{poisionDamage}: {currentHP -= poisionDamage}/{maxHP}");
+            Monster goblin = new Monster("고블린", 5);
+            goblin.ShowStats();
 
-            
-            int experMonster = 150;
-            int monsterKilled = 3;
-            int experLevelUp = 500;
-
-            Console.WriteLine($"\n처치한 몬스터: {monsterKilled}마리");
-            Console.WriteLine($"획득 경험치: {experMonster * monsterKilled}");
-            Console.WriteLine($"레벨업까지 필요: {experLevelUp - experMonster * monsterKilled}");
-
-
-            int totalGold = 1234;
-            int partyMembers = 5;
-
-            Console.WriteLine($"\n총 골드: {totalGold}");
-            Console.WriteLine($"파티원: {partyMembers}");
-            Console.WriteLine($"1인당 골드: {totalGold / partyMembers}");
-            Console.WriteLine($"남은 골드: {totalGold % partyMembers}");
-
-
-            int playerLevel = 35;
-            int requiredLevel = 30;
-            bool hasKey = true;
-            int currentHp = 60;
-            int maxHp = 100;
-
-            Console.WriteLine("\n=== 던전 입장 조건 ===");
-            Console.WriteLine($"레벨 조건 ({requiredLevel} 이상): {playerLevel>=requiredLevel}");
-            Console.WriteLine($"열쇠 보유: {hasKey}");
-            Console.WriteLine($"체력 조건 (50% 이상): {currentHp >= maxHp/2}");
-            Console.WriteLine($"입장 가능: {currentHp >= maxHp/2 && playerLevel >= requiredLevel}");
-
-
-            int originalPrice = 5000;
-            Console.Write("\nVIP 여부(소지한다면1, 아니라면2): ");
-            string isVIP = Console.ReadLine();
-            Console.Write("쿠폰 여부(소지한다면1, 아니라면2): ");
-            string hasCoupon = Console.ReadLine();
-            int intIsVIP = int.Parse(isVIP);
-            int intHasCoupon = int.Parse(hasCoupon);
-            double price = default;
-
-            Console.WriteLine($"원가: {originalPrice}");
-
-            if (intIsVIP == 1)
-            {   
-                price = originalPrice * 0.8;
-                Console.WriteLine($"VIP 할인 (20%): {price}");
+            Console.WriteLine("==== 필드 몬스터 ==== \n");
+            Monster[] monsters = new Monster[3];
+            monsters[0] = new Monster("늑대", 3);
+            monsters[1] = new Monster("오크", 7);
+            monsters[2] = new Monster("트롤", 10);
+            for (int i = 0; i < monsters.Length; i++)
+            {
+                monsters[i].ShowStats();
             }
-            else {    
-                price = originalPrice;
-                Console.WriteLine($"VIP 할인 (0%): {price}");
-            }
-
-            if (intHasCoupon == 1)
-            { 
-                price = price - 500;
-                Console.WriteLine($"쿠폰 할인 (-500): {price - 500}골드");
-            }
-            else {
-                Console.WriteLine($"쿠폰 할인 (0): {price}골드");
-
-            }
-
-            Console.WriteLine($"할인된 가격: {price}");
-
-
-
-
-
-
-            int a = 10;
-            string b = a.ToString();
-
-            Console.WriteLine(b);
-
-            int c = int.Parse(b)+11;
-
-            Console.WriteLine(c);
-
-            Console.Write("2진수 입력: ");
-            string d = Console.ReadLine();
-            int e = Convert.ToInt32(d, 2);
-            int f = e << 1;
-            string g = Convert.ToString(f, 2);
-            Console.WriteLine(g);
-            Console.WriteLine(f);
-
 
         }
     }

@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\abstract_class\abstract_class\bin\Debug\abstract_class.exe.config
+C:\GitHub\Lion7\abstract_class\abstract_class\bin\Debug\abstract_class.exe
+C:\GitHub\Lion7\abstract_class\abstract_class\bin\Debug\abstract_class.pdb
+C:\GitHub\Lion7\abstract_class\abstract_class\obj\Debug\abstract_class.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\abstract_class\abstract_class\obj\Debug\abstract_class.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\abstract_class\abstract_class\obj\Debug\abstract_class.exe
+C:\GitHub\Lion7\abstract_class\abstract_class\obj\Debug\abstract_class.pdb
+C:\GitHub\Lion7\abstract_class\abstract_class\obj\Debug\abstract_class.exe.config

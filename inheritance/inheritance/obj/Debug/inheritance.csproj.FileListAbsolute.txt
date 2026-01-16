@@ -1,0 +1,8 @@
+C:\GitHub\Lion7\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\GitHub\Lion7\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\GitHub\Lion7\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\GitHub\Lion7\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\GitHub\Lion7\inheritance\inheritance\obj\Debug\inheritance.pdb
+C:\GitHub\Lion7\inheritance\inheritance\obj\Debug\inheritance.exe.config

@@ -1,0 +1,7 @@
+C:\GitHub\Lion7\function_property\function_property\bin\Debug\function_property.exe.config
+C:\GitHub\Lion7\function_property\function_property\bin\Debug\function_property.exe
+C:\GitHub\Lion7\function_property\function_property\bin\Debug\function_property.pdb
+C:\GitHub\Lion7\function_property\function_property\obj\Debug\function_property.csproj.AssemblyReference.cache
+C:\GitHub\Lion7\function_property\function_property\obj\Debug\function_property.csproj.CoreCompileInputs.cache
+C:\GitHub\Lion7\function_property\function_property\obj\Debug\function_property.exe
+C:\GitHub\Lion7\function_property\function_property\obj\Debug\function_property.pdb

@@ -106,6 +106,34 @@ namespace operators
             int g = 10, h = 20;
             int max = (g > h) ? g : h;  //조건문 참일 때 g 거짓일 때 h / 둘중 큰값이 입력
             Console.WriteLine(max);
+
+            int playerLevel = 45;
+            string playerGrade = (playerLevel >= 50) ? "고급" :
+                           (playerLevel >= 30) ? "중급" : "초급";
+            Console.WriteLine("\n=== 플레이어 등급 ===");
+            Console.WriteLine(playerGrade);
+
+
+            // 연산자 우선순위 //
+            int result = 10 + 2 * 5;    //곱셈이 덧셈보다 우선
+            Console.WriteLine(result);
+
+            int adjustResult = (10 + 2) * 5;    //괄호로 우선순위 변경
+            Console.WriteLine(adjustResult);
+
+            int baseDamage = 50;
+            int bonusDamage = 20;
+            double criticalMultiplier = 1.5;
+
+            double damage1 = baseDamage + bonusDamage * criticalMultiplier;
+            double damage2 = (baseDamage + bonusDamage) * criticalMultiplier;
+
+            Console.WriteLine("\n=== 크리티컬 데미지 계산 ===");
+            Console.WriteLine($"기본 데미지: {baseDamage}");
+            Console.WriteLine($"보너스 데미지: {bonusDamage}");
+            Console.WriteLine($"크리티컬 배율: {criticalMultiplier}");
+            Console.WriteLine($"잘못된 계산: {damage1}");  // 80.0
+            Console.WriteLine($"올바른 계산: {damage2}");  // 105.0
         }
     }
 }

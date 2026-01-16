@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Lion7\\8. position_console_play\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46261511-BAD7-49D5-BFCF-6CBE85C7EBD9}|position_console_play\\position_console_play.csproj|c:\\github\\lion7\\8. position_console_play\\position_console_play\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46261511-BAD7-49D5-BFCF-6CBE85C7EBD9}|position_console_play\\position_console_play.csproj|solutionrelative:position_console_play\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lion7\\8. position_console_play\\position_console_play\\Program.cs",
+              "RelativeDocumentMoniker": "position_console_play\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Lion7\\8. position_console_play\\position_console_play\\Program.cs",
+              "RelativeToolTip": "position_console_play\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:02:59.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

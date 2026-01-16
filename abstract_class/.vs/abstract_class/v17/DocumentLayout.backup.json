@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\Lion7\\abstract_class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5421F514-E7B6-4F50-BBB4-8163E89524EA}|abstract_class\\abstract_class.csproj|c:\\github\\lion7\\abstract_class\\abstract_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5421F514-E7B6-4F50-BBB4-8163E89524EA}|abstract_class\\abstract_class.csproj|solutionrelative:abstract_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lion7\\abstract_class\\abstract_class\\Program.cs",
+              "RelativeDocumentMoniker": "abstract_class\\Program.cs",
+              "ToolTip": "C:\\GitHub\\Lion7\\abstract_class\\abstract_class\\Program.cs*",
+              "RelativeToolTip": "abstract_class\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T00:13:51.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
