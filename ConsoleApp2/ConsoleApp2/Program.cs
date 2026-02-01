@@ -10,6 +10,11 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Player player = new Player();
+            player.SelectJob();
+
+            MainMenu menu = new MainMenu(player);
+            menu.MainProgress();
         }
     }
 }

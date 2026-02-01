@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Shop.cs" />
+    <Compile Include="Skill.cs" />
+    <Compile Include="MainMenu.cs" />
     <Compile Include="Field.cs" />
     <Compile Include="Monster.cs" />
     <Compile Include="Player.cs" />

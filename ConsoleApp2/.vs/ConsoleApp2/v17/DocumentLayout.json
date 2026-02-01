@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\GitHub\\Lion7\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|c:\\github\\lion7\\consoleapp2\\consoleapp2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|C:\\GitHub\\Lion7\\ConsoleApp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|C:\\GitHub\\Lion7\\ConsoleApp2\\consoleapp2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|C:\\GitHub\\Lion7\\ConsoleApp2\\consoleapp2\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|C:\\GitHub\\Lion7\\ConsoleApp2\\consoleapp2\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|C:\\GitHub\\Lion7\\ConsoleApp2\\consoleapp2\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|C:\\GitHub\\Lion7\\ConsoleApp2\\consoleapp2\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|C:\\GitHub\\Lion7\\ConsoleApp2\\consoleapp2\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|c:\\github\\lion7\\consoleapp2\\consoleapp2\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|C:\\GitHub\\Lion7\\ConsoleApp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EECB08F-DC7A-4B43-8EBD-960A3DFFEB82}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Shop.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Shop.cs",
+              "ToolTip": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Shop.cs",
+              "RelativeToolTip": "ConsoleApp2\\Shop.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T01:02:08.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\MainMenu.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\MainMenu.cs",
+              "ToolTip": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\MainMenu.cs",
+              "RelativeToolTip": "ConsoleApp2\\MainMenu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:28:12.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Field.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Field.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Field.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Field.cs",
               "RelativeToolTip": "ConsoleApp2\\Field.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T08:40:24.915Z"
+              "WhenOpened": "2026-01-15T08:40:24.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Monster.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Monster.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Monster.cs",
               "RelativeToolTip": "ConsoleApp2\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wCYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T08:40:15.9Z"
+              "WhenOpened": "2026-01-15T08:40:15.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Skill.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Skill.cs",
+              "ToolTip": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Skill.cs",
+              "RelativeToolTip": "ConsoleApp2\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T16:12:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Player.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Player.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Player.cs",
               "RelativeToolTip": "ConsoleApp2\\Player.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwC4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T08:40:06.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\ConsoleApp2\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T08:32:44.794Z"
+              "WhenOpened": "2026-01-15T08:32:44.794Z",
+              "EditorCaption": ""
             }
           ]
         }

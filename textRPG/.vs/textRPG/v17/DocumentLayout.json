@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\GitHub\\Lion7\\textRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|c:\\github\\lion7\\textrpg\\textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|C:\\GitHub\\Lion7\\textRPG\\textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|c:\\github\\lion7\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6F9005-35C4-473C-8396-4F532F69AEE1}|textRPG\\textRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "App.config",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\App.config",
               "RelativeDocumentMoniker": "textRPG\\App.config",
@@ -50,82 +50,83 @@
               "RelativeToolTip": "textRPG\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-15T04:05:15.348Z"
+              "WhenOpened": "2026-01-15T04:05:15.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Info.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Info.cs",
               "RelativeDocumentMoniker": "textRPG\\Info.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Info.cs",
               "RelativeToolTip": "textRPG\\Info.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T04:05:08.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Player.cs",
               "RelativeDocumentMoniker": "textRPG\\Player.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Player.cs",
               "RelativeToolTip": "textRPG\\Player.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAQwD8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T04:04:52.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Monster.cs",
               "RelativeDocumentMoniker": "textRPG\\Monster.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Monster.cs",
               "RelativeToolTip": "textRPG\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T04:04:20.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Field.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Field.cs",
               "RelativeDocumentMoniker": "textRPG\\Field.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Field.cs",
               "RelativeToolTip": "textRPG\\Field.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAMwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T04:03:55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainGame.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\MainGame.cs",
               "RelativeDocumentMoniker": "textRPG\\MainGame.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\MainGame.cs",
               "RelativeToolTip": "textRPG\\MainGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T04:03:24.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Program.cs",
               "RelativeDocumentMoniker": "textRPG\\Program.cs",
               "ToolTip": "C:\\GitHub\\Lion7\\textRPG\\textRPG\\Program.cs",
               "RelativeToolTip": "textRPG\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T04:02:57.55Z",
               "EditorCaption": ""
